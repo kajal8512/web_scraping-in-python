@@ -1,0 +1,37 @@
+[
+    {
+        "position": 1,
+        "Name": "E-commerce site",
+        "URL": "https://webscraper.io/test-sites/test-sites/e-commerce/allinone"
+    },
+    {
+        "position": 2,
+        "Name": "E-commerce site with pagination links",
+        "URL": "https://webscraper.io/test-sites/test-sites/e-commerce/static"
+    },
+    {
+        "position": 3,
+        "Name": "E-commerce site with popup links",
+        "URL": "https://webscraper.io/test-sites/test-sites/e-commerce/allinone-popup-links"
+    },
+    {
+        "position": 4,
+        "Name": "E-commerce site with AJAX pagination links",
+        "URL": "https://webscraper.io/test-sites/test-sites/e-commerce/ajax"
+    },
+    {
+        "position": 5,
+        "Name": "E-commerce site with \"Load more\" buttons",
+        "URL": "https://webscraper.io/test-sites/test-sites/e-commerce/more"
+    },
+    {
+        "position": 6,
+        "Name": "E-commerce site that loads items while scrolling",
+        "URL": "https://webscraper.io/test-sites/test-sites/e-commerce/scroll"
+    },
+    {
+        "position": 7,
+        "Name": "Table playground",
+        "URL": "https://webscraper.io/test-sites/test-sites/tables"
+    }
+]
